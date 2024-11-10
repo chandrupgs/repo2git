@@ -1,4 +1,4 @@
-Commitment from Github repository
+Commitment from person2
 
 list = [1,2,3,4,5,'one','abc','def','ghi','jkl','mno']
 list.split()
